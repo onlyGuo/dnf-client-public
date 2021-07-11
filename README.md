@@ -21,5 +21,7 @@ npm run build
 
 This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
 
+编译完毕后，在dnf根目录下创建一个英文的二级目录（比如`LoginClient`），把编译结果放到这个二级目录中
+
 配套网关：
 https://github.com/onlyGuo/dnf-server-web-public.git
