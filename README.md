@@ -2,7 +2,7 @@
 
 > An electron-vue project
 
-> 先给大家推荐一个好玩的网站MyChatGPT（免梯子，国内直接用，不需要OpenAI账号）：https://chat.icoding.ink/
+> 先给大家推荐一个好玩的网站MyChatGPT（免梯子，国内直接用，不需要OpenAI账号）：https://link.fuckicoding.com/
 
 #### Build Setup
 
