@@ -2,7 +2,12 @@
 
 > An electron-vue project
 
-> 先给大家推荐一个好玩的网站MyChatGPT（免梯子，国内直接用，不需要OpenAI账号）：https://link.fuckicoding.com/
+
+## 推广
+一个好玩的大模型聚合平台: [https://gpt.0101.run](https://gpt.0101.run)
+便宜且稳定的大模型API分发平台 [https://0101.run](https://0101.run)
+
+> 本项目不再维护, 请移步至: [https://github.com/onlyGuo/DNFLogin](https://github.com/onlyGuo/DNFLogin)
 
 #### Build Setup
 
